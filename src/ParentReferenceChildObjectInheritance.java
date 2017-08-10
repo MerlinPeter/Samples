@@ -13,7 +13,7 @@ public class ParentReferenceChildObjectInheritance {
 	public class Child extends ParentReferenceChildObjectInheritance{
 		int x=10;
 		public void add(){
-			int y =x+10;
+			int y =x + 10;
 		}
 
 	}
